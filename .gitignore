@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+roundup-backend/node_modules/
+upi-frontend/node_modules/
+mf-frontend/node_modules/
+
+# Build outputs
+dist/
+upi-frontend/dist/
+mf-frontend/dist/
+
+# Environment
+.env
+.env.local
+roundup-backend/.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
